@@ -5,6 +5,12 @@ This project celebrates love, protection, and siblinghood through creativity and
 
 ---
 
+## Live Demo
+
+Check out the live version of the project:
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Here-blue)](https://vaibhavpal7549.github.io/Raksha-Bandhan/)
+
 ## 💖 About the Project
 
 **Raksha Bandhan** is more than just a festival — it’s a symbol of trust, care, and the eternal bond between siblings.  
@@ -31,6 +37,9 @@ You can customize it with your own message, photos, or design to make it a perso
 - 🌐 Easy to share with your loved ones  
 
 ---
+
+## License  
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 📸 Preview
 
